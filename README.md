@@ -1,4 +1,4 @@
-# Time-dependent CP Violation at FCC-ee: Toy Monte Carlo study
+# Time-dependent CP Violation at FCC-ee: Toy Monte Carlo Study
 
 Monte Carlo toy framework for estimating the projected statistical precision on the CP-violating phase phi_s at FCC-ee, for the decay B_s0 -> J/psi phi.
 
