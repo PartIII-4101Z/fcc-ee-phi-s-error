@@ -36,7 +36,7 @@ The script generates the pseudo-experiments, performs the fits, and writes the o
 ## Repository structure
 
 ```
-fcc-ee-phi-s-toy/
+fcc-ee-phi-s-error/
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
