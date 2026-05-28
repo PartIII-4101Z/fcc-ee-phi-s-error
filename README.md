@@ -31,7 +31,7 @@ To reproduce the mistag-rate scan results:
 python -m scripts.run_omega_scan
 ```
 
-The script generates the pseudo-experiments, performs the fits, and writes the output figures to the project root.
+The script generates the pseudo-experiments, performs the fits, and writes the output figures to the project root. Average runtime for 150 toys at 16 values of omega can be expected to be ~10 minutes on most modern laptops.
 
 ## Repository structure
 
